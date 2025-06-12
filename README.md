@@ -36,3 +36,4 @@ IMPORTANTE:
 Qualquer alteração na URL do proxy deve ser atualizada em script.js.
 Sempre que criar uma landing nova, lembre-se de incluir esse JS.
 
+# Projeto 12
